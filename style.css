@@ -8,3 +8,18 @@
   opacity: 1;
   transform: translateY(0);
 }
+
+
+
+
+
+
+
+
+/* For the page styles. You don't need to copy this. */
+
+html{
+  font-size: 50px;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
